@@ -5,7 +5,9 @@ Age=13
 
 Address= 4726 old tomasville rd 
 
-City= Winston Salem State= North Carolina  
+City= Winston Salem 
+
+State= North Carolina  
 
 Zip code=27107 
 
