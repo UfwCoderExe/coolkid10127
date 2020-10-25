@@ -1,22 +1,19 @@
 {
-"valid":false,
-"number":"8708094925",
-"local_format":"",
-"international_format":"",
-"country_prefix":"",
-"country_code":"",
-"country_name":"",
-"location":"",
-"carrier":"",
-"line_type":null
-"Area code":"870"
-"Prefix":"809"
-"City":"Walnut Ridge"
-"State":"Arkansas
-"Country":"United States"
-"Use Type":"wireless"
-"Carrier":"Verzion Wireless"
+"valid":true,
+"number":"18708094925",
+"local_format":"8708094925",
+"international_format":"+18708094925",
+"country_prefix":"+1",
+"country_code":"US",
+"country_name":"United States of America",
+"location":"Walnut Rdg",
+"carrier":"Cellco Partnership (Verizon Wireless)",
+"line_type":"mobile"
 "Age":"14"
 "Name":"Ashley Taylor romine"
+"Birthday":"June 8
+"Born":"2006
+"FaceBook":"Ashlie Romine"
+"ID For FaceBook":"100037977242620"
 "Instagram Accounts":"@ashlietater @its_yo_girl_ash_14 @its_yo_weirdo_2020_ @romineashlie @ashlietaylorromine @ashlieromine"
 }
