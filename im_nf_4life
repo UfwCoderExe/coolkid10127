@@ -1,0 +1,23 @@
+Reason: Cheating on people 
+
+{
+"valid":true,
+"number":"15013807378",
+"local_format":"5013807378",
+"international_format":"+15013807378",
+"country_prefix":"+1",
+"country_code":"US",
+"country_name":"United States of America",
+"location":"Searcy",
+"carrier":"Sprint Corp.",
+"line_type":"mobile"
+"Valid":"true
+"Country": "United States"
+"Carrier":
+"Type": "fixed_line_or_mobile"
+"Int. number": "+1 501-380-7378"
+"Local number": "(501) 380-7378"
+"E164 number": "+15013807378"
+"Region": "Arkansas"
+"Dial code": "1"
+}
