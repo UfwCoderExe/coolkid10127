@@ -1,3 +1,35 @@
+------------------------------------------------------------------------------
+   (     ((      (            (     (            ((      (            (     (     
+  )\    ))\     )\           )\   (()           ))\     )\           )\   (()    
+ ((_)  (((_)   ((_)_        ((_) (((_)         (((_)   ((_)         ((_) (((_)   
+ (/ |  |__  |  |__ /  (    / _ \ | | |    (    |__  | ( _ )   (    / _ \ | | |   
+  | |    / /    |_ \  )\   \_. / |_  _|   )\     / /  / _ \   )\   \_. / |_  _|  
+  |_|   /_/    |___/ ((_)   /_/    |_|   ((_)   /_/   \___/  ((_)   /_/    |_|   
+
+-------------------------------------------------------------------------------
+{
+"First name":"Ashlie"
+"Middle":Taylor"
+"Last":"Romine"
+"Age":14"
+"country":"united states"
+"Area":"Arkansas"
+"Location":"Walnut Rdg"
+"Phone number":"+18708094925"
+"Email":"ashlietater12478@gmail.com"
+"Carrier":"Cellco Partner ship (Verizon Wireless)"
+"Line":"mobile"
+"Area Code":"870"
+"Prefix":"809"
+"City":"Walnut Ridge"
+"State/Province":"Arkansas"
+"Country": "United States"
+"Use Type": "Wireless"
+"Carrier":"CELLCO PARTNERSHIP DBA VERIZON WIRELESS - AR"
+"International format":" +18708094925"
+"Time Zone":"Central (UTC-06:00) (10:03AM)"
+"Get ran":"@173.94.78.94"
+}
 {
 "valid":true,
 "number":"18708094925",
