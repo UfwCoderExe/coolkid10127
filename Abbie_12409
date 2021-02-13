@@ -1,0 +1,38 @@
+{
+"valid":true,
+"number":"16188412327",
+"local_format":"6188412327",
+"international_format":"+16188412327",
+"country_prefix":"+1",
+"country_code":"US",
+"country_name":"United States of America",
+"location":"Harrisburg",
+"carrier":"Cellco Partnership (Verizon Wireless)",
+"line_type":"mobile"
+}
+{
+    "query": "98.30.220.155",
+    "IP Port":"80",
+    "status": "success",
+    "continent": "North America",
+    "continentCode": "NA",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL",
+    "regionName": "Illinois",
+    "city": "Ridgway",
+    "district": "",
+    "zip": "62979",
+    "lat": 37.8042,
+    "lon": -88.2612,
+    "timezone": "America/Chicago",
+    "offset": -21600,
+    "currency": "USD",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS10796 Charter Communications Inc",
+    "asname": "TWC-10796-MIDWEST",
+    "mobile": false,
+    "proxy": false,
+    "hosting": false
+}
