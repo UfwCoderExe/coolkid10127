@@ -20,44 +20,296 @@ Reason for this dox is starting family drama
   category : None
   has guides : False
 
-Full Name emily marie huffer 
-Age 17 
-Born 2004 
-Property Address	1603 Pine Ave
-Kenai AK 99611-9000
-Parcel Number (APN)	04334043
-County (FIPS Code)	Kenai Peninsula (02122)
-Census FIPS+Tract+Block	02122+000600+2017  Block Parcels
-Owner's Name	Darwin L Brooks 
-2nd Owner's Name	Bonnie R Meinzinger
-Owner's Address	36268 King Salmon Ave
-Soldotna AK 99669-8753
-Owner's Address MAK	6290531482
-Estimated Market Value	$209,000
-Year Assessed	2021
-Assessed Value Total	$173,700
-Assessed Value Land	$15,500
-Assessed Value Improvements	$158,200
-Tax Bill Amount	$1,574
-Year Built	1986
-Building Area (sf)	1,288
-Area 1st Floor	0
-Area 2nd Floor	0
-Area Lot (acres)	0.1700
-Area Lot (sf)	7,405
-Area Parking Garage (sf)	484
-Bed Rooms	3
-Bath Rooms	3
-Address Type	Residential
-Date Added	1/15/2015
-Lat. & Long.	60.569199    -151.281754 
-Postal Carrier Route	C002      
-Census Block	021220006002017     
-Census Entities	County 02122 Kenai Peninsula     
-County Subdivision 38460 Kenai-Cook Inlet   
-Tract 0006.00      
-Block 2017     
-City 0238420 Kenai        
-School District	Unified: 00390 Kenai Peninsula Borough School District         
-State Upper District	00O      
-State Lower District	030
+NAME
+First Name
+Emily
+Last Name
+Huffer
+born 2004 
+Age 18 
+
+Email Address
+joey_cole87@yahoo.com
+avonjess1978@yahoo.com
+
+Address 
+1603 Pine Ave, Kenai, AK 99611-9000
+
+Address Information 
+Home Details for 1603 Pine Ave
+
+Interior Features
+Heating & Cooling
+Heating: Forced Air Heating Fuel: Forced Air
+Interior Details
+Types of Rooms: Dining Room
+Appliances & Utilities
+Cable Ready Dishwasher Dryer Refrigerator Washer
+Fireplace & Spa
+Fireplace
+Levels, Entrance, & Accessibility
+Floors: Hardwood, Laminate
+Security
+Security System
+
+Exterior Features
+Exterior Home Features
+Roof: Asphalt DeckExterior: Wood Patio
+Parking & Garage
+Garage Parking: Garage Attached
+
+Property Information
+Year Built
+Year Built: 1986
+Property Type / Style
+Property Type: Single Family Home
+
+Lot Information
+Lot Area: 7405 sqft
+
+Price History for 1603 Pine Ave
+Event Details	Price
+05/01/2017
+Pending
+Agent Provided
+$195K
+
+04/18/2017
+Price Change
+Agent Provided
+$195K
+
+
+03/20/2017
+Price Change
+Agent Provided
+$200K
+
+
+02/06/2017
+Price Change
+Agent Provided
+$203K
+
+
+01/14/2017
+Listed For Sale
+Agent Provided
+$210K
+
+05/01/2012
+Listing Removed
+Agent Provided
+$180K
+
+04/14/2012
+Listed For Sale
+Agent Provided
+$180K
+
+11/11/2011
+Listing Removed
+Agent Provided
+$175K
+
+09/04/2011
+Price Change
+Agent Provided
+$175K
+
+
+Price Change
+$5,000 (-3%)
+08/19/2011
+Listed For Sale
+Agent Provided
+$180K
+
+04/09/2011
+Listing Removed
+Agent Provided
+$190K
+
+03/23/2011
+Price Change
+Agent Provided
+$185K
+
+
+Price Change
+$5,000 (-3%)
+02/16/2011
+Listed For Sale
+Agent Provided
+
+Property Taxes and Assessment
+Year	2021
+Tax	$1,574
+Assessment	$173,700
+
+Assigned Schools
+Kenai Central High School
+9-12 public school 462 students 
+Kenai Middle School
+6-8 public school 344 students 
+Mt. View Elementary School
+pk-5 public school 493 students 
+
+IP Information 
+{
+    "response": "OK",
+    "Open port": "80",
+    "country_code": "US",
+    "country_name": "United States of America",
+    "region_name": "Alaska",
+    "city_name": "Kenai",
+    "latitude": 60.55444,
+    "longitude": -151.25833,
+    "zip_code": "99611",
+    "time_zone": "-08:00",
+    "isp": "General Communication Inc.",
+    "domain": "gci.com",
+    "net_speed": "DSL",
+    "idd_code": "1",
+    "area_code": "907",
+    "weather_station_code": "USAK0124",
+    "weather_station_name": "Kenai",
+    "mcc": "310",
+    "mnc": "050",
+    "mobile_brand": "GCI",
+    "elevation": 22,
+    "usage_type": "ISP\/MOB",
+    "address_type": "Unicast",
+    "category": "IAB19-18",
+    "category_name": "Internet Technology",
+    "geotargeting": {
+        "metro": "743"
+    },
+    "continent": {
+        "name": "North America",
+        "code": "NA",
+        "hemisphere": [
+            "north",
+            "west"
+        ],
+        "translations": {
+            "zh-cn": "\u5317\u7f8e\u6d32"
+        }
+    },
+    "country": {
+        "name": "United States of America",
+        "alpha3_code": "USA",
+        "numeric_code": "840",
+        "demonym": "Americans",
+        "flag": "https:\/\/cdn.ip2location.com\/assets\/img\/flags\/us.png",
+        "capital": "Washington, D.C.",
+        "total_area": "9826675",
+        "population": "331002651",
+        "currency": {
+            "code": "USD",
+            "name": "United States Dollar",
+            "symbol": "$"
+        },
+        "language": {
+            "code": "EN",
+            "name": "English"
+        },
+        "idd_code": "1",
+        "tld": "us",
+        "is_eu": false,
+        "translations": {
+            "zh-cn": "\u7f8e\u56fd"
+        }
+    },
+    "country_groupings": [
+        {
+            "acronym": "Americas",
+            "name": "Americas"
+        },
+        {
+            "acronym": "APEC",
+            "name": "Asia-Pacific Economic Cooperation"
+        },
+        {
+            "acronym": "DAC",
+            "name": "Development Assistance Committee"
+        },
+        {
+            "acronym": "G2",
+            "name": "Group of Two"
+        },
+        {
+            "acronym": "G20",
+            "name": "Group of Twenty"
+        },
+        {
+            "acronym": "G7",
+            "name": "Group of Seven"
+        },
+        {
+            "acronym": "G8+5",
+            "name": "Group of Eight + Five"
+        },
+        {
+            "acronym": "NAFTA",
+            "name": "North American Free Trade Agreement"
+        },
+        {
+            "acronym": "NALA",
+            "name": "North America and Latin America"
+        },
+        {
+            "acronym": "OAS",
+            "name": "Organization of American States"
+        },
+        {
+            "acronym": "OECD",
+            "name": "Organisation for Economic Co-operation and Development"
+        },
+        {
+            "acronym": "P5",
+            "name": "Permanent Members of the United Nations Security Council"
+        },
+        {
+            "acronym": "UN",
+            "name": "United Nations"
+        }
+    ],
+    "region": {
+        "name": "Alaska",
+        "code": "US-AK",
+        "translations": {
+            "zh-cn": "\u963f\u62c9\u65af\u52a0"
+        }
+    },
+    "city": {
+        "name": "Kenai",
+        "translations": []
+    },
+    "time_zone_info": {
+        "olson": "America\/Anchorage",
+        "current_time": "2022-10-08T13:39:23-08:00",
+        "gmt_offset": -28800,
+        "is_dst": "yes",
+        "sunrise": "08:29",
+        "sunset": "19:15"
+    },
+    "credits_consumed": 35
+}
+{
+	"response":"OK",
+	"countryCode":"",
+	"countryName":"",
+	"regionName":"",
+	"cityName":"",
+	"isp":"",
+	"domain":"",
+	"usageType":"",
+	"asn":"",
+	"lastSeen":"",
+	"proxyType":"",
+	"threat":"",
+	"isProxy":"",
+	"provider":""
+}
+
